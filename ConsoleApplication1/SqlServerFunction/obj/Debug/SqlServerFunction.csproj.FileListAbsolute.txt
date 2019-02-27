@@ -1,0 +1,6 @@
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\bin\Debug\SqlServerFunction.exe.config
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\bin\Debug\SqlServerFunction.exe
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\bin\Debug\SqlServerFunction.pdb
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\obj\Debug\SqlServerFunction.exe
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\obj\Debug\SqlServerFunction.pdb
+D:\C#Test\MultiThreading\ConsoleApplication1\SqlServerFunction\obj\Debug\SqlServerFunction.csprojResolveAssemblyReference.cache

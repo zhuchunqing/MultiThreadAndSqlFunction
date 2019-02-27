@@ -1,0 +1,6 @@
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C#Test\MultiThreading\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
